@@ -1,0 +1,12 @@
+lib/universal-router/:@uniswap/v3-core=lib/universal-router/node_modules/@uniswap/v3-core/
+lib/universal-router/:@uniswap/v2-core=lib/universal-router/node_modules/@uniswap/v2-core/
+lib/universal-router/:@openzeppelin=lib/universal-router/node_modules/@openzeppelin/
+permit2=lib/permit2
+@uniswap/v4-core/=lib/v4-core/
+@uniswap/v4-periphery/=lib/v4-periphery/
+@uniswap/universal-router/=lib/universal-router/
+@openzeppelin=lib/openzeppelin-contracts/
+@solady/=lib/solady/
+@optimism/=lib/optimism/packages/contracts-bedrock/
+continuous-clearing-auction/=lib/continuous-clearing-auction/
+liquidity-launcher/=lib/liquidity-launcher/
